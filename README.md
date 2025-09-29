@@ -14,7 +14,9 @@ Permite a las organizaciones gestionar sus redes de manera eficiente mediante:
 - **Optimización de Red**: Monitoreo automatizado del tráfico, detección de cuellos de botella, análisis en tiempo real y gestión dinámica de ancho de banda para procesos de alta prioridad.  
 - **Seguridad Mejorada**: Firewall integrado con reglas personalizables, sistema de detección de amenazas y transmisión de datos cifrada con TLS 1.3.  
 - **Escalabilidad sin Interrupciones**: Soporte para escalar desde pequeños equipos hasta redes a nivel empresarial, con integración fácil a infraestructuras en la nube existentes (AWS, Azure, Google Cloud) y balanceo de carga automático.  
-- **Interfaz Intuitiva y Fácil de Usar**: Panel de control (Dashboard) personalizable e intuitivo con vistas, notificaciones y acceso a APIs para automatización de tareas y flujos de trabajo de red.  
+- **Interfaz Intuitiva y Fácil de Usar**: Panel de control (Dashboard) personalizable e intuitivo con vistas, notificaciones y acceso a APIs para automatización de tareas y flujos de trabajo de red.
+
+- **Versión:** 1.0
 
 ---
 
